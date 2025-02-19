@@ -1,0 +1,15 @@
+numpy
+pandas
+emoji
+spacy-transformers
+sentence-transformers
+matplotlib
+seaborn
+gensim
+beautifulsoup4
+textblob
+scikit-learn
+tensorflow
+tf-keras
+nltk
+wordcloud
